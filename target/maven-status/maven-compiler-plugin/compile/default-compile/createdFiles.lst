@@ -1,0 +1,6 @@
+com\nisum\springbatch\ExamResultJobListener.class
+com\nisum\springbatch\ExamResultItemProcessor.class
+com\nisum\springbatch\LocalDateAdapter.class
+com\nisum\springbatch\ExamResultItemPreparedStatementSetter.class
+com\nisum\springbatch\model\ExamResult.class
+com\nisum\springbatch\Main.class
